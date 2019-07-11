@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Company [core_company]" max_length="40" name="x_376265_marketing_company__core_company_" type="collection"/>
+</database>
